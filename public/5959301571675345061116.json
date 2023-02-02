@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "878421631188",
+    "project_id": "dangdut-koplo-full-bass-lb-eb",
+    "storage_bucket": "dangdut-koplo-full-bass-lb-eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878421631188:android:b94c94e5085eb2c23ddb41",
+        "android_client_info": {
+          "package_name": "com.lancarbarokah.dangdut.koplo.fullbass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878421631188-enafd2uqi2u8iraqi7dssud8s78454qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzPd5gmc5yK57RPu4FtcXz7bcZ5taG3mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878421631188-enafd2uqi2u8iraqi7dssud8s78454qq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
